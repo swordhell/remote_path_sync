@@ -2,6 +2,7 @@
 # encoding: utf-8
 # 
 # pip install fabric==2.5.0
+# pip install pypiwin32
 #
 import logging
 import os
